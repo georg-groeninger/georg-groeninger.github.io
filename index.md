@@ -7,11 +7,11 @@ Es ist einfach lustig sich ihn anzuschauen, absolut der beste Character aus alle
 
 * groß, schlank & sehr intelligent
 * IQ: 187
-* sitzt nur auf <a href="https://www.youtube.com/watch?v=KzKU3-rqTJY&t=17">SEINEM Sitzplatz</a> auf der Couch, dem perfekten Platz
+* sitzt nur auf <a href="https://www.youtube.com/watch?v=KzKU3-rqTJY&t=17" style="color: #0079d7;">SEINEM Sitzplatz</a> auf der Couch, dem perfekten Platz
 * hasst Veränderungen
 * Theoretischer Physiker, Forschungsgebiet: Stringtheorie
-* <a href="https://www.youtube.com/watch?v=p4wiKnRSeqM&t=8" style="decoration: none;">Betrunken</a>
-* <a href="https://www.youtube.com/watch?v=4JfwfCXAJVU&t=93" style="decoration: none;">Auf Energy Drink</a>
+* <a href="https://www.youtube.com/watch?v=p4wiKnRSeqM&t=8" style="color: #0079d7;">Betrunken</a>
+* <a href="https://www.youtube.com/watch?v=4JfwfCXAJVU&t=93" style="color: #0079d7;">Auf Energy Drink</a>
 
 ### Zitat
 > Schere schneidet Papier, Papier bedeckt Stein, Stein zerquetscht Echse, Echse vergiftet Spock, Spock zertrümmert Schere, Schere köpft Echse, Echse frisst Papier, Papier widerlegt Spock, Spock verdampft Stein und wie gewöhnlich Stein schleift Schere.
