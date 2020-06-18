@@ -1,15 +1,20 @@
-# This is an Header
+# Dr. Dr. Sheldon Lee Cooper
 
-blibla blub das ist en test text 123456789!
+Sheldon Cooper ist ein Protagonist der Serie "Big Bang Theorie" und gewissermaßen die Hauptfigur. Es geht um vier Physiker, ihren Beruf, ihr Leben, die Liebe...
+Es ist einfach lustig sich ihn anzuschauen, absolut der beste Character aus allen Sitcoms.
 
-## this is a subheader
+## Charakter & Eigenschaften
 
-* unorderd list 1
-* unorderd list 3
-* unorderd list 3
-* unorderd list 4
-* unorderd list 5
+* groß, schlank & sehr intelligent
+* IQ: 187
+* sitzt nur auf SEINEM Sitzplatz auf der Couch, dem perfekten Platz (https://www.youtube.com/watch?v=KzKU3-rqTJY&t=17)
+* hasst Veränderungen
+* Theoretischer Physiker, Forschungsgebiet: Stringtheorie
+* Betrunken (https://www.youtube.com/watch?v=p4wiKnRSeqM&t=8)
+* Auf Energy Drink (https://www.youtube.com/watch?v=4JfwfCXAJVU&t=93)
 
-> Moin ich bin das Test Zitat
+### Zitat
+> Schere schneidet Papier, Papier bedeckt Stein, Stein zerquetscht Echse, Echse vergiftet Spock, Spock zertrümmert Schere, Schere köpft Echse, Echse frisst Papier, Papier widerlegt Spock, Spock verdampft Stein und wie gewöhnlich Stein schleift Schere.
+(https://www.youtube.com/watch?v=5cujdrWbc9k&t=34)
 
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg1.looper.com%2Fimg%2Fgallery%2Fthings-that-make-no-sense-about-harry-potter%2Fintro-1550086067.jpg&f=1&nofb=1">
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages-na.ssl-images-amazon.com%2Fimages%2FM%2FMV5BZjg4MGNlZDgtMmM5OC00ZmMxLTg3Y2EtZmZjOGJlNDU4NGNhXkEyXkFqcGdeQXVyMTgxOTIzNzk%40._V1_UY666_CR259%2C0%2C666%2C666_AL_.jpg&f=1&nofb=1">
