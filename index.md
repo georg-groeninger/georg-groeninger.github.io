@@ -7,7 +7,7 @@ Es ist einfach lustig sich ihn anzuschauen, absolut der beste Character aus alle
 
 * groß, schlank & sehr intelligent
 * IQ: 187
-* sitzt nur auf SEINEM Sitzplatz auf der Couch, dem perfekten Platz (https://www.youtube.com/watch?v=KzKU3-rqTJY&t=17)
+* sitzt nur auf <a href="https://www.youtube.com/watch?v=KzKU3-rqTJY&t=17">SEINEM Sitzplatz</a> auf der Couch, dem perfekten Platz
 * hasst Veränderungen
 * Theoretischer Physiker, Forschungsgebiet: Stringtheorie
 * <a href="https://www.youtube.com/watch?v=p4wiKnRSeqM&t=8" style="decoration: none;">Betrunken</a>
